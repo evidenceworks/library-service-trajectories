@@ -4,14 +4,14 @@ This repository reproduces the descriptive analysis of opening hours and library
 
 ## Run in Google Colab
 
-[Open in Colab](https://colab.research.google.com/github/evidenceworks/library-service-trajectories/blob/main/notebooks/reproduce.ipynb)
+[Open in Colab](https://colab.research.google.com/github/evidenceworks/library-service-trajectories/blob/reproduction-v1/notebooks/reproduce.ipynb)
 
-[Download repository ZIP](https://github.com/evidenceworks/library-service-trajectories/archive/refs/heads/main.zip)
+[Download Colab reproduction bundle](https://github.com/evidenceworks/library-service-trajectories/releases/download/reproduction-v1/colab-reproduction.zip)
 
 1. Open the notebook in Colab.
 2. Click **Runtime → Run all**.
-3. Download the repository ZIP using the link above.
-4. Upload that ZIP when the first notebook cell asks for it.
+3. Download the Colab reproduction bundle using the link above.
+4. Upload `colab-reproduction.zip` when the first notebook cell asks for it.
 
 ## Run locally
 
