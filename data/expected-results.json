@@ -1,0 +1,90 @@
+{
+  "annual_and_endpoint_changes.csv": {
+    "rows": 13400,
+    "sha256": "fb00079fd20c88c972fadfae9ce921da0f24d7e5f595c0b3a0513bd05b485b9d"
+  },
+  "annual_domains.csv": {
+    "rows": 8576,
+    "sha256": "a454daf2105a950dd3f55bf5ba0d170f89fad9f7abb8069db9f2817989a24baa"
+  },
+  "annual_identities.csv": {
+    "rows": 1072,
+    "sha256": "3b06170cabfece3eb8d09416f1797afc53dc137498fee870970dc42e6ef92680"
+  },
+  "annual_national_domains.csv": {
+    "rows": 120,
+    "sha256": "5ca16e418b937abe59de7e41fe4645d8528839120f2ac1cf3f2b39bac1ebd241"
+  },
+  "context_differences.csv": {
+    "rows": 24,
+    "sha256": "33e4006369c5d7a5d857166663bed24f5c2ce6ddc5b46135708c62cc448a801a"
+  },
+  "continuous_diagnostics.csv": {
+    "rows": 268,
+    "sha256": "885d2c484c94d209c1ee0e3358a9fa6150afba0d024d4a6a01a87ffdb95eaf91"
+  },
+  "coverage_and_unresolved_footprints.csv": {
+    "rows": 24,
+    "sha256": "d432c3fd76e9bd25a4fa653c54adc67996c0ec68ff4844eddd57a7cf26fee9c8"
+  },
+  "denominator_decomposition.csv": {
+    "rows": 6432,
+    "sha256": "e18d76db77a82e41f8a4abbcb810a93551ff950516b60c07120554d067c16fc8"
+  },
+  "denominator_reversal_cases.csv": {
+    "rows": 4288,
+    "sha256": "1893e12f5604f5e872ac1c7f9c5d7c293c0fad14ce8c535ba3940f59906fd7a3"
+  },
+  "denominator_reversal_counts.csv": {
+    "rows": 16,
+    "sha256": "db1094f79538f33f40bceda12d825783510af4d61b09d49b3123bbb77e069b85"
+  },
+  "event_cases.csv": {
+    "rows": 3216,
+    "sha256": "b4fb904a7efc206bc19c2387a78d7c7b975c79871ffc2204091bfcacdf037fa2"
+  },
+  "event_prevalence.csv": {
+    "rows": 48,
+    "sha256": "d005ada72573b0fa7f6a54e6fb56c0a279bb2cde040fe470db8feebe6eb8abda"
+  },
+  "fte_event_diagnostic.csv": {
+    "rows": 26,
+    "sha256": "a0367edfa20baa3328898a35e21e96d1109169bb88cf1c8a4d13bc8a94389fec"
+  },
+  "fte_trajectories.csv": {
+    "rows": 1072,
+    "sha256": "a50748475f5fe0d6dda3e01d368804b9995b10878440d5720404191f0c90325e"
+  },
+  "projection_coefficient_domains.csv": {
+    "rows": 24,
+    "sha256": "654aa9e848ca922cbbc95a2b64b70017372d3a078d450affd3f76d48f1f1f444"
+  },
+  "projection_models.json": {
+    "rows": null,
+    "sha256": "dcfb7f7ca000c63f07c305057187f48e45f5dbcbafc389870e921957908f3f0e"
+  },
+  "projection_region_support.csv": {
+    "rows": 18,
+    "sha256": "37c5e06e4945174addeb439f55f8874fb816a1584aa39f22a0d4543ca9600756"
+  },
+  "region_leave_one_out.csv": {
+    "rows": 864,
+    "sha256": "76b9667ac51cec1a3597b4a99f587107ae228665badc8df19c9e1490b717cc4d"
+  },
+  "region_leave_one_out_differences.csv": {
+    "rows": 432,
+    "sha256": "aabe0a32740cd3079bfdd7ac1ce54f78fd97df0646207e095d6ac30ca08bde7b"
+  },
+  "reporting_changes.csv": {
+    "rows": 1608,
+    "sha256": "4e87536e1daa66fd147bfc0c7f50fb44e13bbad27e5029da103b45f178b144d8"
+  },
+  "trajectory_patterns.csv": {
+    "rows": 2680,
+    "sha256": "4242007ea13acf2893f4531bbbef09176d051863843b3a0d657b2b55fb819683"
+  },
+  "unknown_event_witnesses.json": {
+    "rows": null,
+    "sha256": "3dadf1c95a3a20a77a7fd0b78fd092b563b101365e9e5716cd7dbba11130555f"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "causal_interpretation": false,
+    "columns": [
+      "intercept",
+      "prior_g"
+    ],
+    "cross_region_exclusions": [],
+    "design_support": 268,
+    "full_column_rank": true,
+    "model": "g_only",
+    "observed_response_rank": 2,
+    "precision": "floating linear algebra for projection coefficients only",
+    "rank": 2,
+    "region_reference": "",
+    "response": "2022-2025 staffed change per1000 baseline residents",
+    "response_observed": 267,
+    "response_unknown": 1,
+    "significance_tests": false,
+    "source_domain": "beta=anchor+loading*z, z>=0 with no finite upper bound; shared z across all coefficients",
+    "unresolved_response_ids": [
+      "CRT_755"
+    ],
+    "weight": "equal territory"
+  },
+  {
+    "causal_interpretation": false,
+    "columns": [
+      "intercept",
+      "prior_g",
+      "baseline_population_per10000",
+      "baseline_staffed_intensity",
+      "rural_share",
+      "region_02",
+      "region_04",
+      "region_05",
+      "region_06",
+      "region_07",
+      "region_08",
+      "region_09",
+      "region_10",
+      "region_11",
+      "region_12",
+      "region_13",
+      "region_14",
+      "region_15",
+      "region_16",
+      "region_17",
+      "region_18",
+      "region_19"
+    ],
+    "cross_region_exclusions": [
+      "CRT_171+178+681"
+    ],
+    "design_support": 267,
+    "full_column_rank": true,
+    "model": "context_and_region",
+    "observed_response_rank": 22,
+    "precision": "floating linear algebra for projection coefficients only",
+    "rank": 22,
+    "region_reference": "01",
+    "response": "2022-2025 staffed change per1000 baseline residents",
+    "response_observed": 266,
+    "response_unknown": 1,
+    "significance_tests": false,
+    "source_domain": "beta=anchor+loading*z, z>=0 with no finite upper bound; shared z across all coefficients",
+    "unresolved_response_ids": [
+      "CRT_755"
+    ],
+    "weight": "equal territory"
+  }
+]

@@ -1,0 +1,17 @@
+record_id,system_name,field,raw,state,cell,lower,upper,relaxed_lower,relaxed_upper
+2022:ALL:11,Espoo,staff_present_no_service_hours,,blank,ALL!AC11,0.00,0.00,0,69650.05
+2022:ALL:44,Inari,staff_present_no_service_hours,,blank,ALL!AC44,0,0,0,8715
+2022:ALL:141,Miehikkälä,staff_present_no_service_hours,,blank,ALL!AC141,0,0,0,1488
+2022:ALL:141,Miehikkälä,no_library_staff_hours,,blank,ALL!AD141,0,0,0,1488
+2023:ALL:44,Inari,staff_present_no_service_hours,,blank,ALL!AC44,0,0,0,9638
+2023:ALL:137,Marttila,staff_present_no_service_hours,,blank,ALL!AC137,0,0,0,1303
+2023:ALL:137,Marttila,no_library_staff_hours,,blank,ALL!AD137,0,0,0,1303
+2023:ALL:214,Savitaipale,staff_present_no_service_hours,,blank,ALL!AC214,0,0,0,1744
+2023:ALL:214,Savitaipale,no_library_staff_hours,,blank,ALL!AD214,0,0,0,1744
+2024:ALL:11,Espoo,staff_present_no_service_hours,,blank,ALL!AC11,0,0,0,70493
+2025:ALL:11,Espoo,staff_present_no_service_hours,,blank,ALL!AB11,0,0,0,66625
+2025:ALL:22,Hanko,staff_present_no_service_hours,,blank,ALL!AB22,0,0,0,7849
+2025:ALL:226,Siuntio,total_hours,,blank,ALL!Z226,0,unbounded,0,unbounded
+2025:ALL:226,Siuntio,staff_service_hours,,blank,ALL!AA226,0,unbounded,0,unbounded
+2025:ALL:226,Siuntio,staff_present_no_service_hours,,blank,ALL!AB226,0,unbounded,0,unbounded
+2025:ALL:226,Siuntio,no_library_staff_hours,,blank,ALL!AC226,0,unbounded,0,unbounded

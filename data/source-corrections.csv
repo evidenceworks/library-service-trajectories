@@ -1,0 +1,9 @@
+correction_id,record_id,field,raw_value,comparison_value,accepted_value,raw_changed,source_cell,reference,cause
+R01,2017:ALL:5,population,11097,11907,11907,false,ALL!DR5,"Statistics Finland, population at 2016-12-31 on 2017 municipal geography",Unknown; no cause is asserted.
+R02,2022:ALL:75,municipality_code,236,235,235,false,ALL!FB75,"Statistics Finland, annual municipality classification; exact name match",Unknown; no cause is asserted.
+R03,2023:ALL:75,municipality_code,236,235,235,false,ALL!FB75,"Statistics Finland, annual municipality classification; exact name match",Unknown; no cause is asserted.
+R04,2023:ALL:97,municipality_code,248,284,284,false,ALL!FB97,"Statistics Finland, annual municipality classification; exact name match",Unknown; no cause is asserted.
+R05,2024:ALL:75,municipality_code,236,235,235,false,ALL!FB75,"Statistics Finland, annual municipality classification; exact name match",Unknown; no cause is asserted.
+R06,2024:ALL:97,municipality_code,248,284,284,false,ALL!FB97,"Statistics Finland, annual municipality classification; exact name match",Unknown; no cause is asserted.
+R07,2025:ALL:97,municipality_code,248,284,284,false,ALL!FL97,"Statistics Finland, annual municipality classification; exact name match",Unknown; no cause is asserted.
+R08,2023:ALL:29,paid_fte,451,458,451,false,ALL!EH29,"Finnish Public Libraries Statistics, 2023; worked FTE and its educational components",Unknown; no cause is asserted.

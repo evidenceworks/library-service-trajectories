@@ -1,0 +1,14 @@
+{
+  "figure-data/denominator-components.csv": "ab157c0cd880411177a65dd623db7b49ced00f8d74fa9786b1e1c4abf5ad23af",
+  "figure-data/endpoint-changes.csv": "866a15e1efaed4c07ec268c778c2fe0ecf426efa69d0f782a81912dd631c4b90",
+  "results/annual-totals.csv": "5ca16e418b937abe59de7e41fe4645d8528839120f2ac1cf3f2b39bac1ebd241",
+  "results/denominator-reversals.csv": "db1094f79538f33f40bceda12d825783510af4d61b09d49b3123bbb77e069b85",
+  "results/event-differences.csv": "33e4006369c5d7a5d857166663bed24f5c2ce6ddc5b46135708c62cc448a801a",
+  "results/event-prevalence.csv": "d005ada72573b0fa7f6a54e6fb56c0a279bb2cde040fe470db8feebe6eb8abda",
+  "results/event-staffing.csv": "a0367edfa20baa3328898a35e21e96d1109169bb88cf1c8a4d13bc8a94389fec",
+  "results/projection-models.json": "dcfb7f7ca000c63f07c305057187f48e45f5dbcbafc389870e921957908f3f0e",
+  "results/projection-support.csv": "37c5e06e4945174addeb439f55f8874fb816a1584aa39f22a0d4543ca9600756",
+  "results/region-omission-differences.csv": "aabe0a32740cd3079bfdd7ac1ce54f78fd97df0646207e095d6ac30ca08bde7b",
+  "results/trajectory-summary.csv": "3fbf154537d8a7974fc4384f9aff72eef2de1017f7bd60683e5ee15e4773d5f5",
+  "results/unknown-event-witnesses.json": "3dadf1c95a3a20a77a7fd0b78fd092b563b101365e9e5716cd7dbba11130555f"
+}

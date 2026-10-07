@@ -1,0 +1,230 @@
+[
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 0,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "1755.5",
+      "U": "1755.5"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "published_accounting",
+    "start_year": 2022
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 2,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "1755.5",
+      "U": "1755.5"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "published_accounting",
+    "start_year": 2022
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 5,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "1755.5",
+      "U": "1755.5"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "published_accounting",
+    "start_year": 2022
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 0,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "2668",
+      "U": "2668"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "published_accounting",
+    "start_year": 2023
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 2,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "2668",
+      "U": "2668"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "published_accounting",
+    "start_year": 2023
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 5,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "2668",
+      "U": "2668"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "published_accounting",
+    "start_year": 2023
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 0,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "1755.5",
+      "U": "1755.5"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "conservative_relaxation",
+    "start_year": 2022
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 2,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "1755.5",
+      "U": "1755.5"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "conservative_relaxation",
+    "start_year": 2022
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 5,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "1755.5",
+      "U": "1755.5"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "conservative_relaxation",
+    "start_year": 2022
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 0,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "2668",
+      "U": "2668"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "conservative_relaxation",
+    "start_year": 2023
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 2,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "2668",
+      "U": "2668"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "conservative_relaxation",
+    "start_year": 2023
+  },
+  {
+    "common_territory_id": "CRT_755",
+    "decline_threshold_percent": 5,
+    "event_false_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "0",
+      "U": "0"
+    },
+    "event_true_endpoint": {
+      "M": "0",
+      "S": "0",
+      "T": "2668",
+      "U": "2668"
+    },
+    "meaning": "feasible joint source-domain witnesses, not imputed observations",
+    "source_scenario": "conservative_relaxation",
+    "start_year": 2023
+  }
+]

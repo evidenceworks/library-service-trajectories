@@ -1,0 +1,27 @@
+source_scenario,population_context,event_status,paid_fte_direction,territories,meaning
+conservative_relaxation,declining,definite_event,decrease,49,descriptive staffing association; no substitution mechanism
+conservative_relaxation,declining,definite_event,increase,31,descriptive staffing association; no substitution mechanism
+conservative_relaxation,declining,definite_event,unchanged,15,descriptive staffing association; no substitution mechanism
+conservative_relaxation,declining,definite_non_event,decrease,60,descriptive staffing association; no substitution mechanism
+conservative_relaxation,declining,definite_non_event,increase,45,descriptive staffing association; no substitution mechanism
+conservative_relaxation,declining,definite_non_event,unchanged,18,descriptive staffing association; no substitution mechanism
+conservative_relaxation,nondeclining,definite_event,decrease,10,descriptive staffing association; no substitution mechanism
+conservative_relaxation,nondeclining,definite_event,increase,8,descriptive staffing association; no substitution mechanism
+conservative_relaxation,nondeclining,definite_event,unchanged,2,descriptive staffing association; no substitution mechanism
+conservative_relaxation,nondeclining,definite_non_event,decrease,12,descriptive staffing association; no substitution mechanism
+conservative_relaxation,nondeclining,definite_non_event,increase,13,descriptive staffing association; no substitution mechanism
+conservative_relaxation,nondeclining,definite_non_event,unchanged,4,descriptive staffing association; no substitution mechanism
+conservative_relaxation,nondeclining,source_unidentified,decrease,1,descriptive staffing association; no substitution mechanism
+published_accounting,declining,definite_event,decrease,49,descriptive staffing association; no substitution mechanism
+published_accounting,declining,definite_event,increase,31,descriptive staffing association; no substitution mechanism
+published_accounting,declining,definite_event,unchanged,15,descriptive staffing association; no substitution mechanism
+published_accounting,declining,definite_non_event,decrease,60,descriptive staffing association; no substitution mechanism
+published_accounting,declining,definite_non_event,increase,45,descriptive staffing association; no substitution mechanism
+published_accounting,declining,definite_non_event,unchanged,18,descriptive staffing association; no substitution mechanism
+published_accounting,nondeclining,definite_event,decrease,10,descriptive staffing association; no substitution mechanism
+published_accounting,nondeclining,definite_event,increase,8,descriptive staffing association; no substitution mechanism
+published_accounting,nondeclining,definite_event,unchanged,2,descriptive staffing association; no substitution mechanism
+published_accounting,nondeclining,definite_non_event,decrease,12,descriptive staffing association; no substitution mechanism
+published_accounting,nondeclining,definite_non_event,increase,13,descriptive staffing association; no substitution mechanism
+published_accounting,nondeclining,definite_non_event,unchanged,4,descriptive staffing association; no substitution mechanism
+published_accounting,nondeclining,source_unidentified,decrease,1,descriptive staffing association; no substitution mechanism
